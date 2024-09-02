@@ -1,7 +1,6 @@
 # Netflix-clone
 The Netflix Clone project aims to develop a web application that replicates the core viewing experience of the popular streaming platform, Netflix. <br>
-Link to view:- https://netflix-cloneabc.netlify.app
-
+Link to view:- https://net-clones.netlify.app/
 Image 1:
 ![Screenshot (112)](https://github.com/KapilCS15/netflix-clone/assets/86887239/92453acc-ba0e-4841-bd11-58be42332396) <br/>
 
